@@ -1,0 +1,16 @@
+D:\Programing\Data Structures\ArrayStructure\ArrayStructure\bin\Debug\net5.0\ArrayStructure.exe
+D:\Programing\Data Structures\ArrayStructure\ArrayStructure\bin\Debug\net5.0\ArrayStructure.deps.json
+D:\Programing\Data Structures\ArrayStructure\ArrayStructure\bin\Debug\net5.0\ArrayStructure.runtimeconfig.json
+D:\Programing\Data Structures\ArrayStructure\ArrayStructure\bin\Debug\net5.0\ArrayStructure.runtimeconfig.dev.json
+D:\Programing\Data Structures\ArrayStructure\ArrayStructure\bin\Debug\net5.0\ArrayStructure.dll
+D:\Programing\Data Structures\ArrayStructure\ArrayStructure\bin\Debug\net5.0\ref\ArrayStructure.dll
+D:\Programing\Data Structures\ArrayStructure\ArrayStructure\bin\Debug\net5.0\ArrayStructure.pdb
+D:\Programing\Data Structures\ArrayStructure\ArrayStructure\obj\Debug\net5.0\ArrayStructure.csprojAssemblyReference.cache
+D:\Programing\Data Structures\ArrayStructure\ArrayStructure\obj\Debug\net5.0\ArrayStructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programing\Data Structures\ArrayStructure\ArrayStructure\obj\Debug\net5.0\ArrayStructure.AssemblyInfoInputs.cache
+D:\Programing\Data Structures\ArrayStructure\ArrayStructure\obj\Debug\net5.0\ArrayStructure.AssemblyInfo.cs
+D:\Programing\Data Structures\ArrayStructure\ArrayStructure\obj\Debug\net5.0\ArrayStructure.csproj.CoreCompileInputs.cache
+D:\Programing\Data Structures\ArrayStructure\ArrayStructure\obj\Debug\net5.0\ArrayStructure.dll
+D:\Programing\Data Structures\ArrayStructure\ArrayStructure\obj\Debug\net5.0\ref\ArrayStructure.dll
+D:\Programing\Data Structures\ArrayStructure\ArrayStructure\obj\Debug\net5.0\ArrayStructure.pdb
+D:\Programing\Data Structures\ArrayStructure\ArrayStructure\obj\Debug\net5.0\ArrayStructure.genruntimeconfig.cache
