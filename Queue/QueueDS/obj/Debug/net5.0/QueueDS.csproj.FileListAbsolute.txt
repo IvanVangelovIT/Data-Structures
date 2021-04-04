@@ -1,0 +1,16 @@
+D:\Programing\Data Structures\Queue\QueueDS\bin\Debug\net5.0\QueueDS.exe
+D:\Programing\Data Structures\Queue\QueueDS\bin\Debug\net5.0\QueueDS.deps.json
+D:\Programing\Data Structures\Queue\QueueDS\bin\Debug\net5.0\QueueDS.runtimeconfig.json
+D:\Programing\Data Structures\Queue\QueueDS\bin\Debug\net5.0\QueueDS.runtimeconfig.dev.json
+D:\Programing\Data Structures\Queue\QueueDS\bin\Debug\net5.0\QueueDS.dll
+D:\Programing\Data Structures\Queue\QueueDS\bin\Debug\net5.0\ref\QueueDS.dll
+D:\Programing\Data Structures\Queue\QueueDS\bin\Debug\net5.0\QueueDS.pdb
+D:\Programing\Data Structures\Queue\QueueDS\obj\Debug\net5.0\QueueDS.csprojAssemblyReference.cache
+D:\Programing\Data Structures\Queue\QueueDS\obj\Debug\net5.0\QueueDS.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programing\Data Structures\Queue\QueueDS\obj\Debug\net5.0\QueueDS.AssemblyInfoInputs.cache
+D:\Programing\Data Structures\Queue\QueueDS\obj\Debug\net5.0\QueueDS.AssemblyInfo.cs
+D:\Programing\Data Structures\Queue\QueueDS\obj\Debug\net5.0\QueueDS.csproj.CoreCompileInputs.cache
+D:\Programing\Data Structures\Queue\QueueDS\obj\Debug\net5.0\QueueDS.dll
+D:\Programing\Data Structures\Queue\QueueDS\obj\Debug\net5.0\ref\QueueDS.dll
+D:\Programing\Data Structures\Queue\QueueDS\obj\Debug\net5.0\QueueDS.pdb
+D:\Programing\Data Structures\Queue\QueueDS\obj\Debug\net5.0\QueueDS.genruntimeconfig.cache
